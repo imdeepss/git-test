@@ -1,2 +1,6 @@
 this is 2nd demo.
 header
+
+footer_v2
+logo
+notification
